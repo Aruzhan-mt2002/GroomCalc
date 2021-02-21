@@ -1,0 +1,56 @@
+.main{
+    
+    padding: 3cm ;
+    margin: auto;
+    border: 2px, gray;
+    text-align: center;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    
+}
+
+h2, h3{
+    background: #fff;
+    border-radius: 10px;
+ text-align: center;
+ 
+}
+
+.radiolabel{
+    background: #fff;
+    border-radius: 10px;
+}
+
+.gossip{
+    background: #fff;
+    border-radius: 10px;
+}
+
+
+.background{
+    background-image: url(https://lh3.googleusercontent.com/proxy/b3SBvAILDghvUIUMGwZcl0b29hz6WdZMEwQieI5ftrFm5yzVPawRBwIOp5O5fojnw_9tpMr1BRifMiTuqZOv_5W3W9sx2cqm3CnxaIecOG1FrDCAWrPSBBXkm03rjyPG8P09);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+html {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.dream_groom{
+    width: max-content;
+    height: auto;
+}
+
+
+
+
+.container {
+    background: #fff;
+    border-radius: 10px;
+}
+
